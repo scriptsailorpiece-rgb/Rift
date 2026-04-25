@@ -1,2 +1,3 @@
 loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Rift-46927"))()
 loadstring(game:HttpGet("https://pastefy.app/8NPsMAbW/raw"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/seFgxkPw"))()
